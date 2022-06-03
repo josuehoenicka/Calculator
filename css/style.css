@@ -14,10 +14,10 @@
 
 body {
     margin: 0;
-    background: linear-gradient(
-		var(--black),
-		var(--gray-intense)
-	);
+    background-color: var(--gray);
+    animation-name: background;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
 }
 
 .container {
@@ -82,3 +82,11 @@ button:focus {
     font-size: 2em;
 }
 
+@keyframes background {
+    0%{
+        background-color: var(--gray);
+    }
+    100%{
+        background-color: var(--red-wine);
+    }
+}
