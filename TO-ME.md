@@ -1,9 +1,12 @@
-To improve:
-    ✘ Make watermark
-    ✘ Change body's background color
-    ✘ Change background color when the user clic on the button 
-    ✘ Create mood night
-
+<ul>To improve:
+    <li>✘ Make watermark</li>
+    <li>✘ Change body's background color</li>
+    <li>✘ Change background color when the user clic on the button</li> 
+    <li>✘ Create mood night</li>
+</ul>
+<br>
+<ul>
 Challenges:
-    ✘ Add buttons (ANS, sqrt, sqr, abs)
-    ✘ Floor on the screen (visibility and function)
+    <li>✘ Add buttons (ANS, sqrt, sqr, abs)</li>
+    <li>✘ Floor on the screen (visibility and function)</li>
+</ul>
