@@ -1,4 +1,4 @@
-<img src="/img/cap-calculator" alt="calculator">
+<img src="/img/cap-calculator.png" alt="calculator">
 
 <b>ENGLISH</b>
 
